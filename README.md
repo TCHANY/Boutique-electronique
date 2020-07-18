@@ -23,3 +23,10 @@ Sélectionner l’/les articles souhaités puis ajouter à son panier
 Proposer à une inscription/connexion s’il dispose déjà un compte 
 Payer avec un des moyens de paiement proposés par le site 
 un message s’affiche en cas de succès ou d'échec
+
+
+
+cd C:\wamp\www\Site_ecommerce
+git init
+git add .
+git status
