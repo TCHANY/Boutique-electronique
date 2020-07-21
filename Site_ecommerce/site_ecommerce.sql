@@ -124,7 +124,6 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `email`, `password`) VALUES
-(2, 'LearnPHPaz', 'LearnPHPaz@gmail.com', '1212'),
 (4, 'carole', 'tchany12@gmail.com', 'tantine');
 
 -- --------------------------------------------------------
